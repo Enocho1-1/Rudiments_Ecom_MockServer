@@ -1574,88 +1574,6 @@
         "id": 1
       },
       "id": 3
-    },
-    {
-      "userCart": [
-        {
-          "id": 1008,
-          "random_index": 49781,
-          "title": "Regular Cactus Graphic Tee",
-          "price": 24,
-          "quantity": 1,
-          "size": "M",
-          "image": "https://images.riverisland.com/is/image/RiverIsland/rust-regular-fit-cactus-graphic-t-shirt_382903_main?$ProductImagePortraitLarge$"
-        },
-        {
-          "id": 1028,
-          "random_index": 79603,
-          "title": "Black cargo joggers",
-          "price": 65,
-          "quantity": 1,
-          "size": "32 (US)",
-          "image": "https://images.riverisland.com/is/image/RiverIsland/black-slim-fit-cargo-joggers_385322_main?$ProductImagePortraitLarge$"
-        },
-        {
-          "id": 1056,
-          "random_index": 93531,
-          "title": "Black embossed trainers",
-          "price": 50,
-          "quantity": 1,
-          "size": "10",
-          "image": "https://images.riverisland.com/is/image/RiverIsland/black-embossed-trainers_384788_back?$ProductImagePortraitLarge$"
-        },
-        {
-          "id": 1063,
-          "random_index": 34996,
-          "title": "Essential black cotton hat",
-          "price": 27,
-          "quantity": 1,
-          "size": "",
-          "image": "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57040784_56_D1.jpg?ts=1683718488071&imwidth=1920&imdensity=2&impolicy=featured"
-        }
-      ],
-      "userInfo": {
-        "name": "Mr. Naruto Uzamaki",
-        "email": "naruto@example.com",
-        "orderNo": 3173779,
-        "orderDate": "25 November 2023",
-        "orderTime": "6:00:56 PM",
-        "orderTotal": 132,
-        "id": 3
-      },
-      "id": 4
-    },
-    {
-      "userCart": [
-        {
-          "id": 1001,
-          "random_index": 79375,
-          "title": "Essential White Regular Tee",
-          "price": 15,
-          "quantity": 1,
-          "size": "M",
-          "image": "https://images.riverisland.com/is/image/RiverIsland/white-regular-fit-t-shirt_385132_main?$ProductImagePortraitLarge$"
-        },
-        {
-          "id": 1025,
-          "random_index": 13137,
-          "title": "Ecru tapered plisse trousers",
-          "price": 65,
-          "quantity": 1,
-          "size": "32 (US)",
-          "image": "https://images.riverisland.com/is/image/RiverIsland/ecru-tapered-fit-plisse-smart-trousers_384127_main?$ProductImagePortraitLarge$"
-        }
-      ],
-      "userInfo": {
-        "name": "Mr. Asta Hage",
-        "email": "asta@example.com",
-        "orderNo": 7513436,
-        "orderDate": "28 November 2023",
-        "orderTime": "10:29:39 AM",
-        "orderTotal": 64,
-        "id": 4
-      },
-      "id": 5
     }
   ],
   "users": [
@@ -1674,22 +1592,5 @@
       "firstName": "Jane",
       "lastName": "Doe",
       "id": 2
-    },
-    {
-      "email": "naruto@example.com",
-      "password": "$2a$10$6LaFCfo/cGm5JTNxfFsBqOTZA9IEZRkUcX93rjZLFqp/59rKevOA6",
-      "title": "Mr",
-      "firstName": "Naruto",
-      "lastName": "Uzamaki",
-      "id": 3
-    },
-    {
-      "email": "asta@example.com",
-      "password": "$2a$10$CYVVfS2yDdL/r9yaPY5Og.SIAMp.J.OOhVid.YOjVvY.oYq2J9NQu",
-      "title": "Mr",
-      "firstName": "Asta",
-      "lastName": "Hage",
-      "id": 4
-    }
-  ]
+    }]
 }
